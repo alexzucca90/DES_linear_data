@@ -53,8 +53,8 @@ and eliminates the data points in the shaded regions below
 ## 5. References:
 Papers illustrating the method to remove the non-linear data:
 
-*  *Dark Energy Survey Year 1 Results: Constraints on Extended Cosmological Models from Galaxy Clustering and Weak Lensing*  
-    DES Collaboration 
+*  *Dark Energy Survey Year 1 Results: Constraints on Extended Cosmological Models from Galaxy Clustering and Weak Lensing*   
+    DES Collaboration  
     [arXiv:1810.02499 [astro-ph.CO]](https://arxiv.org/abs/1810.02499)
     
 *   *Planck 2015 results. XIV. Dark energy and modified gravity*  
