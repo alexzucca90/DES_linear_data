@@ -5,7 +5,7 @@ The code in this repo is used to produce the linear data cutoffs for the Dark En
 
 This code is used in [MGCosmoMC](https://github.com/sfu-cosmo/MGCosmoMC). 
 
-The galaxy clustering and weak lensing two point correlations functions provided by the Dark Energy Survey (DES) probe non-linear angular scales. When 
+The galaxy clustering and weak lensing two point correlations functions provided by the Dark Energy Survey (DES) probe non-linear angular scales. When constraining models that do not have a non-linear clustering prescription (for example Modified Gravity and exotic Dark Energy models) the non-linear data has to be properly removed.
 
 ## 1. Installing:
 To install this code on your machine, type the following commands on the terminal
