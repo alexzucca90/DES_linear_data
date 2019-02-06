@@ -6,7 +6,6 @@ import pylab as pil
 from argparse import ArgumentParser
 
 ## Setting up argument parser
-# this allows us to use one sript only to run all the subjects all the bras and different (or all) coordinates
 parser = ArgumentParser(description='cutoff data based on ', usage='python DE_linear_cut.py -t threshold')
 
 parser.add_argument('-t', '--threshold',  type = float, help='chi2 threshold')
